@@ -37,12 +37,3 @@ Regularized ANN of 30 epochs with 4 layers consisting of
 |---------|-----------|--------|------|
 | Train    |  0.87 |  0.87   |  0.3251 |
 | Test    |  0.86 |  0.86   |  0.3375 |
-
-___
-## Model Deployment
-The final model with the best score was deployed on a web application built with **Django** with the frontend built with **HTML & CSS** with **Boostrap 4** as the CSS Framework.
-
-![Web application of the model](Plots/app.png)
-
-
-___
